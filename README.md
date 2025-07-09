@@ -7,6 +7,6 @@
 ## Research
 - [Testing/analyzing AI Large Language Models (LLMs)](https://github.com/ljkrajewski/analyzing_llms)
 ## Prompt Engineering
-- Graces of Black Birds
-- G&R Gallows Humor Group
-- Diary of Joscelin Holloway
+- [Graces of Black Birds](https://github.com/ljkrajewski/portfolio/tree/main/graces_of_black_birds)
+- [G&R Gallows Humor Group](https://github.com/ljkrajewski/portfolio/tree/main/grin_and_reaper)
+- [Diary of Joscelin Holloway](https://github.com/ljkrajewski/portfolio/tree/main/joscelin_holloway)
