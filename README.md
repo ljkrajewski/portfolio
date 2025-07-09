@@ -1,10 +1,9 @@
 # portfolio
 ## AI/ML
-- tic-tac-toe
+- [tic-tac-toe](https://github.com/ljkrajewski/jupyter_notebooks/blob/main/tic_tac_toe.ipynb)
   - python, jupyter
   - ML
-- [Jupyter notebooks](https://github.com/ljkrajewski/jupyter_notebooks)
-  - Image generation
+- [Image generation](https://github.com/ljkrajewski/jupyter_notebooks/tree/main/flux)
 ## Research
 - [Testing/analyzing AI Large Language Models (LLMs)](https://github.com/ljkrajewski/analyzing_llms)
 ## Prompt Engineering
