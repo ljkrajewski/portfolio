@@ -7,4 +7,11 @@ The idea for _Graces of Black Birds_ began while experimenting with AI audio gen
 ## solutions
 ## prompt examples and results
 ## technologies used
+- audio generation
+  - udio
+- Image generation
+  - Flux (custom UI)
+  - Stable Diffusion (Fooocus)
+  - Manual image manipulation (GIMP)
+- Text generation
 ## learnings
