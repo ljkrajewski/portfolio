@@ -4,14 +4,23 @@ _Graces of Black Birds_ is a virtual darkwave band hailing from Detroit. They cu
 
 The idea for _Graces of Black Birds_ began while experimenting with AI audio generation, specificly Udio. Growing up listening to music, I found that the stories behind the artists and their songs added depth and meaning to the music. So after creating the song _Truly Mine_, I created the band (with the assistance of AI) along with its backstory and the backstories of its members.
 ## challenges
+- Story writing
+  - Continuity
+  - 
 ## solutions
+- Story writing
+  - Used character cards, 
 ## prompt examples and results
 ## technologies used
 - audio generation
   - udio
-- Image generation
+- image generation
   - Flux (custom UI)
   - Stable Diffusion (Fooocus)
-  - Manual image manipulation (GIMP)
-- Text generation
+  - manual image manipulation (GIMP)
+- text generation
+  - Claude.AI
+  - ChatGPT
+  - Grok
+  - Gemini
 ## learnings
